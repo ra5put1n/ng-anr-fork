@@ -3,8 +3,10 @@
 License
 -------
 
-This software is licensed under
-[GNU Affero General Public License version 3](http://www.gnu.org/licenses/agpl-3.0.html)
+This license of the original software changed for testing purposes.
+
+This is licensed under
+(MIT License)
 
 - Copyright (C) 2016-2020 Jérôme Lombardi - https://github.com/jerolomb
 - Copyright (C) 2016-2020 Juan Rocha - https://github.com/jfrocha
